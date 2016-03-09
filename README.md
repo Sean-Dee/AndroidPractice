@@ -9,5 +9,11 @@ Android练习小项目
 > 练习ListView用法
 
 - CatchCrazyCat 围住神经猫
-> 只实现了简单的游戏原理及基本绘图
+> 实现了简单的游戏原理及基本绘图
+
+- TuringRobot图灵机器人
+> 图灵机器人聊天APP
+
+
+
 
